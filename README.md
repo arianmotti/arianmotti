@@ -29,12 +29,6 @@ and I love working on **AI-driven simulations**, **Deep Learning**, and **intell
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arianmotti&show_icons=true&theme=monokai) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arianmotti&theme=monokai)
-:-------------------------:|:-------------------------:
-
----
 
 ## 🧠 About Me
 
