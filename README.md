@@ -4,8 +4,8 @@
 🎓 I'm an M.Sc. student in **Artificial Intelligence** at the **University of Tehran**,  
 and a B.Sc. graduate in **Computer Engineering** from **Amirkabir University of Technology (Tehran Polytechnic)**.  
 
-I’m passionate about **Computer Vision**, **Machine Learning**, and **Robotics**,  
-and I love working on **AI-driven simulations**, **3D perception**, and **intelligent systems**.  
+I’m passionate about **Computer Vision**, **Machine Learning**, and **computer science**,  
+and I love working on **AI-driven simulations**, **Deep Learning**, and **intelligent systems**.  
 
 ---
 
@@ -41,7 +41,7 @@ and I love working on **AI-driven simulations**, **3D perception**, and **intell
 
 ## 🧠 About Me
 
-- 🤖 Passionate about **AI, Computer Vision, and Robotics**  
+- 🤖 Passionate about **AI, Computer Vision, and Machine learning** 
 - 🧩 Currently working on **Genetic Algorithm Game Solver** and **Vision-Based 3D Reconstruction**  
 - 💬 Always curious about **autonomous systems**, **scene understanding**, and **intelligent agents**  
 - 🚀 Exploring how AI can **understand and interact with physical environments**  
