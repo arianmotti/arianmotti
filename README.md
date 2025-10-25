@@ -32,9 +32,7 @@ and I love working on **AI-driven simulations**, **Deep Learning**, and **intell
 
 ## 🧠 About Me
 
-- 🤖 Passionate about **AI, Computer Vision, and Machine learning** 
-- 🧩 Currently working on **Genetic Algorithm Game Solver** and **Vision-Based 3D Reconstruction**  
-- 💬 Always curious about **autonomous systems**, **scene understanding**, and **intelligent agents**  
+- 🤖 Passionate about **AI, Computer Vision, and Machine learning**  
 - 🚀 Exploring how AI can **understand and interact with physical environments**  
 
 ---
