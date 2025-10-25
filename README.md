@@ -22,8 +22,6 @@ and I love working on **AI-driven simulations**, **Deep Learning**, and **intell
 [![](https://img.shields.io/badge/-Python3-white?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-PyTorch-white?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![](https://img.shields.io/badge/-OpenCV-white?style=for-the-badge&logo=opencv)](https://opencv.org/)
-[![](https://img.shields.io/badge/-ROS-white?style=for-the-badge&logo=ros)](https://www.ros.org/)
 [![](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![](https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=angular)](https://angular.io/)
