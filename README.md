@@ -26,7 +26,6 @@ and I love working on **AI-driven simulations**, **Deep Learning**, and **intell
 [![](https://img.shields.io/badge/-ROS-white?style=for-the-badge&logo=ros)](https://www.ros.org/)
 [![](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)](https://www.linux.org/)
-[![](https://img.shields.io/badge/-C++-white?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![](https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=angular)](https://angular.io/)
 [![](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=java)](https://www.java.com/)
 
